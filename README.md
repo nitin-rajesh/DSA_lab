@@ -1,6 +1,6 @@
 # DSA_lab
 
-This git rep is for students who have lab programs that coincidentially match with the programs in this rep. This has nothing to do with the fact that you might be in the same college as me, as it is completely non-consequential. Only to be used the day before your lab.
+This git rep is for students who have lab programs that coincidentially match with the programs in this rep. Only to be used the day before your lab.
 
 The code in each folder is for the respective questions.
 
